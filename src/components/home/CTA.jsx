@@ -12,9 +12,9 @@ export default function CTA (){
                     Share a few details and receive a plan made only for you.
                  </p>
 
-                 <Link to='/' className='mt-12 bg-white text-[#663399]  font-semibold rounded-full px-6 py-3'>
+                 <a href="/" className='mt-12 bg-white text-[#663399]  font-semibold rounded-full px-6 py-3'>
                        Start your brief
-                 </Link>
+                 </a>
 
             </div>
             </section>
