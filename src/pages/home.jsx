@@ -9,13 +9,12 @@ import Testimonials from "../components/home/testimonials.jsx";
 import Faqs from "../components/home/faqs.jsx";
 import Articles from "../components/home/articles.jsx";
 
-import CTA from "../components/home/cta.jsx";
+
 export default function Home(){
       return(
       <>
         <Hero/>
         <Process/>
-        
         <Propositions/>
         <Offers/>
         <Projects/>
@@ -23,7 +22,6 @@ export default function Home(){
         <Testimonials/>
         <Faqs/>
         <Articles/>
-         <CTA/>
        </>
       )
 }
